@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Smart Contact Manager",
+    "imageSrc": "projects/smartcontact.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["Spring", "Security", "Thymeleaf"],
+    "demo": "#",
+    "source": "https://github.com/amanDev1437/ContactHub"
+  },
+  {
+    "title": "Far Away",
+    "imageSrc": "projects/faraway.png",
+    "description": "This is a project made to learn the React Concepts and API integration.",
+    "skills": ["React", "CSS","Springboot","Mysql"],
+    "demo": "#",
+    "source": "#"
+  },
+  {
+    "title": "Ecommerce Websites",
+    "imageSrc": "projects/ecommerce.png",
+    "description": "This is a project made to learn the React Concepts and API integration.",
+    "skills": ["React","Springboot","Mysql"],
+    "demo": "#",
+    "source": "#"
+  }
+]
