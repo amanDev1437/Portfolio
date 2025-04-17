@@ -12,7 +12,7 @@ export const Hero = () => {
           I'm a full-stack developer with 2+ years of experience using React and
           Springboot. Reach out if you'd like to learn more!
         </p>
-        <a href="/AmanSinghR.pdf" download="AmanSingh.pdf" className={styles.contactBtn}>
+        <a href="/Portfolio/AmanSinghR.pdf" download="AmanSingh.pdf" className={styles.contactBtn}>
           Resume
         </a>
       </div>
